@@ -1,0 +1,142 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PDFCollectionCell"
+provides-nominal:
+- "C11MyPDFReader17PDFCollectionCell"
+provides-member:
+- ["C11MyPDFReader17PDFCollectionCell", ""]
+provides-dynamic-lookup:
+- "pdfImageView"
+- "pdfLabel"
+depends-top-level:
+- "UICollectionViewCell"
+- "UIImageView"
+- "PDFCollectionCell"
+- "UILabel"
+depends-member:
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "pdfImageView"]
+- ["PSs9AnyObject", "pdfLabel"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "pdfImageView"]
+- ["PSs11CVarArgType", "pdfLabel"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "pdfImageView"]
+- ["PSs23CustomStringConvertible", "pdfLabel"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "pdfImageView"]
+- ["PSs9Equatable", "pdfLabel"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "pdfImageView"]
+- ["PSs8Hashable", "pdfLabel"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "pdfImageView"]
+- ["PSo8NSCoding", "pdfLabel"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "pdfImageView"]
+- ["CSo8NSObject", "pdfLabel"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "pdfImageView"]
+- ["PSo16NSObjectProtocol", "pdfLabel"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C11MyPDFReader17PDFCollectionCell", "UIImageView"]
+- ["C11MyPDFReader17PDFCollectionCell", "UILabel"]
+- ["C11MyPDFReader17PDFCollectionCell", "deinit"]
+- ["C11MyPDFReader17PDFCollectionCell", "init"]
+- ["C11MyPDFReader17PDFCollectionCell", "pdfImageView"]
+- ["C11MyPDFReader17PDFCollectionCell", "pdfLabel"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "pdfImageView"]
+- ["PSo29UIAccessibilityIdentification", "pdfLabel"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "pdfImageView"]
+- ["PSo12UIAppearance", "pdfLabel"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "pdfImageView"]
+- ["PSo21UIAppearanceContainer", "pdfLabel"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["CSo24UICollectionReusableView", "UIImageView"]
+- ["CSo24UICollectionReusableView", "UILabel"]
+- ["CSo24UICollectionReusableView", "init"]
+- ["CSo24UICollectionReusableView", "pdfImageView"]
+- ["CSo24UICollectionReusableView", "pdfLabel"]
+- ["CSo20UICollectionViewCell", "UIImageView"]
+- ["CSo20UICollectionViewCell", "UILabel"]
+- ["CSo20UICollectionViewCell", "init"]
+- ["CSo20UICollectionViewCell", "pdfImageView"]
+- ["CSo20UICollectionViewCell", "pdfLabel"]
+- ["CSo20UICollectionViewCell", ""]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "pdfImageView"]
+- ["PSo17UICoordinateSpace", "pdfLabel"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "pdfImageView"]
+- ["PSo13UIDynamicItem", "pdfLabel"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "pdfImageView"]
+- ["PSo18UIFocusEnvironment", "pdfLabel"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "pdfImageView"]
+- ["CSo11UIResponder", "pdfLabel"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "pdfImageView"]
+- ["PSo18UITraitEnvironment", "pdfLabel"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "pdfImageView"]
+- ["CSo6UIView", "pdfLabel"]
+- ["PSs12_Reflectable", "init"]
+- ["PSs12_Reflectable", "pdfImageView"]
+- ["PSs12_Reflectable", "pdfLabel"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C11MyPDFReader17PDFCollectionCell"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo24UICollectionReusableView"
+- "CSo20UICollectionViewCell"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+interface-hash: "f5002ddeb8c0df93b92ba2919cdc6d05"

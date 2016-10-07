@@ -1,0 +1,13 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "cc3c65a172731cd87f52e73b0b85a393"
+build_time: [500024734, 36446000]
+inputs:
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/MyPDFReader/PDFUtil.swift": [499165798, 0]
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/MyPDFReader/ViewController.swift": [499165798, 0]
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/MyPDFReader/MainViewController.swift": [499165798, 0]
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/MyPDFReader/PDFCollectionController.swift": [499165798, 0]
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/MyPDFReader/PDFViewCell.swift": [499165798, 0]
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/MyPDFReader/PDFTableController.swift": [499165798, 0]
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/PDFCollectionCell.swift": [499165798, 0]
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/MyPDFReader/AppDelegate.swift": [499165798, 0]
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/MyPDFReader/DetailsViewController.swift": [499165798, 0]

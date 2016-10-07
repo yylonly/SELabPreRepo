@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "1828e25a4d92c5f96cec26bee9d48b0c"
+build_time: [500026867, 629158000]
+inputs:
+  "/Users/heermaster/Documents/iOS Development/MyPDFReader/MyPDFReaderTests/MyPDFReaderTests.swift": [499165798, 0]
